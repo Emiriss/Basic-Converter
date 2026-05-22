@@ -4,4 +4,4 @@ It Converts image/video/photo/voice file extensions in a restricted manner.
 
 ( AS A DESKTOP APP ) Rewritten and actively developed.
 
-Thanks @namikkemal for helping me to debug.
+Thanks @MTalhat for helping me to debug.
